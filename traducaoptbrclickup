@@ -1,0 +1,287 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "NEW TASK",
+      "repB": "NOVA TAREFA",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "GOALS",
+      "repB": "Conquistas",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "TO DO",
+      "repB": "A Fazer",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Reporting",
+      "repB": "Relatórios",
+      "type": "Simple"
+    }
+	,
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Help",
+      "repB": "Ajuda",
+      "type": "Simple"
+    }
+	,
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Notifications",
+      "repB": "Notificações",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Favorites",
+      "repB": "Favoritos",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "My Work",
+      "repB": "Meu trabalho",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Legacy Home Screen",
+      "repB": "Antiga tela de inicio",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Pulse",
+      "repB": "Rítimo",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "NEW TASK",
+      "repB": "NOVA TAREFA",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Hide",
+      "repB": "Esconder",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "TO DO",
+      "repB": "A Fazer",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Home",
+      "repB": "Inicio",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Search by task name or custom field value...",
+      "repB": "Pesquise por nome de tarefa ou valor de campo personalizado",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Notifications",
+      "repB": "Notificações",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Favorites",
+      "repB": "Favoritos",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "My Work",
+      "repB": "Meu trabalho",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Legacy Home Screen",
+      "repB": "Antiga tela de inicio",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Pulse",
+      "repB": "Rítimo",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Add space",
+      "repB": "Adicionar espaço",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "Spaces",
+      "repB": "Espaços",
+      "type": "Simple"
+    },
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Group by",
+      "repB": "Agrupar por",
+      "type": "Simple"
+    },
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Assignee",
+      "repB": "Responsável",
+      "type": "Simple"
+    },
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "ASSIGNEE",
+      "repB": "Responsável",
+      "type": "Simple"
+    },
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Everything",
+      "repB": "Tudo",
+      "type": "Simple"
+    }
+		,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Share",
+      "repB": "Compartilhar",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Everyone",
+      "repB": "Todos",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Subtasks",
+      "repB": "Sub-tarefas",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Automate",
+      "repB": "Automatizar",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "ESCONDER CLOSED",
+      "repB": "Esconder Fechados",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Add comEunt",
+      "repB": "Adicionar comentários",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "My Tasks ",
+      "repB": "Minhas Tarefas",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": " View settings ",
+      "repB": "Exibe configurações",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "created subtask",
+      "repB": "criou sub-tarefa",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": " You ",
+      "repB": "você ",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Tomorrow ",
+      "repB": "Amanhã ",
+      "type": "Simple"
+    }
+	,
+	{
+      "active": true,
+      "case": "Override",
+      "repA": "Date ",
+      "repB": "Data ",
+      "type": "Simple"
+    }
+	
+  ]
+}
